@@ -1,0 +1,19 @@
+Notes :
+
+- String : 
+	Le type de variable string s'écrit avec un S majuscule.
+
+- Créer un objet String :
+	new String()
+
+- Comparer 2 String :
+	maString1.equals(maString2))
+
+- Comment fusionner une String (concatèner):
+	System . out . println ("The number is" + (4  +  3  +  2));
+
+- Double :
+	Standard JAVA pour les chiffres à virgule, précision accrue.
+
+- Comparer 2 char :
+	variable == 'A'
