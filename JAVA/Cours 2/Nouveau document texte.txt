@@ -1,4 +1,0 @@
-Notes :
-
-- String: 
-	Le type de variable string s'écrit avec un S majuscule.
